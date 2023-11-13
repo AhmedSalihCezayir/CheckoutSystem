@@ -1,3 +1,6 @@
+## Project Requirements ##
+Please check Requirements.pdf to learn more about item and cart constraints.
+
 ## Getting Started
 
 To run the application, you can use the following commands:
