@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  ty-checkout-case:
+    image: ty-checkout-case
+    container_name: checkout-case
+    ports:
+      - "8080:8080"
+
+volumes:
+  data: {}
